@@ -1,5 +1,6 @@
 import turtle
 
+print("Hello World")
 
 wn = turtle.Screen()
 
